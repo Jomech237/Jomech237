@@ -4,7 +4,7 @@
 - curently working as an assistant mechatronics engineer/software dev at Krystalline salt Ltd Kenya.
 - Working on an open source embedded system design of a weighing/sorting controller for IIOT factory line automation.
 - Experienced PLC programmer. 
-- 📫 How to reach me email: john.n.ndegwa@gmail.com, 
+- 📫 How to reach me email: ndegwa.john.n@gmail.com, 
 
 <!---
 maker254/maker254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
